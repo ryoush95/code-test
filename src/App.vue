@@ -5,6 +5,7 @@
 
   <div>
     <h4>{{ products[0] }}</h4>
+    
     <p>{{ price1 }}won</p>
     <button @click="increase0">report</button>
     <span> report : {{ report1[0] }}</span>
